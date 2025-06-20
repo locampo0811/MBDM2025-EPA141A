@@ -17,10 +17,11 @@ Sofia Salvador Mateo (6102239)
 
 # Data Storage 
 
-All data used within this project is stored in the data folder.
+All data used within this project is stored in the "data" folder.
 
 
 # Workflow
+Our full analysis workflow is in: "MBDM_FINAL_Group_30 (final code)"
 
 *Step 1*: Defining objectives, levers, and uncertainties relevant to the Upper IJssel.
 *Step 2*: Conduct initial exploratory modeling.
@@ -35,4 +36,4 @@ All data used within this project is stored in the data folder.
 The results are reproducible by running the notebooks chronologically. For convenience, the results folder also contains the most important results in CSV files.
 
 # Figures 
-The figures produced in the code are stored in the "Plots" folder. However, note that when the code is run again, the image in the file will be overwritten.
+The figures produced in the code are stored in the "MBDM_Final_Assignment_Files" > "Plots" folder. However, note that when the code is run again, the image in the file will be overwritten.
