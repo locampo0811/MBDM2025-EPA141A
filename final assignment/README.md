@@ -10,9 +10,9 @@ Rising flood risks due to climate change threaten lives and infrastructure. The 
 
 Group 30 
 
-Aline Mellersh (6348718)
-Carsten Mohr (6350178)
-Lyka Ocampo (6353142)
+Aline Mellersh (6348718);
+Carsten Mohr (6350178);
+Lyka Ocampo (6353142);
 Sofia Salvador Mateo (6102239)
 
 # Data Storage 
